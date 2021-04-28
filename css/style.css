@@ -66,6 +66,14 @@ body {
   width: 100%;
   text-align: center;
 }
+#intro2 {
+  position: absolute;
+  left: 0;
+  top: 40%;
+  padding: 0 10px;
+  width: 100%;
+  text-align: center;
+}
 h2 {
   text-transform: uppercase;
   font-size: 50px;
